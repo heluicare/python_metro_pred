@@ -8,4 +8,15 @@
 阶段五、使用ARIMA模型预测和检验历史数据中最后7天客流量数据；<br/>
 阶段六、使用SARIMA模型预测和检验历史数据中最后7天客流量数据；<br/>
 阶段七、使用ARIMA模型预测未来7天客流量数据；<br/>
-阶段八、使用SARIMA模型预测未来7天客流量数据；
+阶段八、使用SARIMA模型预测未来7天客流量数据；<br/>
+
+!(/assets/images/wm_20260429091027.jpg)<br/>
+!(/assets/images/wm_20260429091233.jpg)<br/>
+!(/assets/images/wm_20260429091301.jpg)<br/>
+!(/assets/images/wm_20260429091325.jpg)<br/>
+!(/assets/images/wm_20260429091404.jpg)<br/>
+!(/assets/images/wm_20260429091426.jpg)<br/>
+!(/assets/images/wm_20260429091443.jpg)<br/>
+!(/assets/images/wm_20260429091513.jpg)<br/>
+!(/assets/images/wm_20260429091603.jpg)<br/>
+!(/assets/images/wm_20260429091626.jpg)<br/>
